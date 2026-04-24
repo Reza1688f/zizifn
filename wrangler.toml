@@ -1,7 +1,7 @@
 name = "zizifn"
 main = "index.js"
 compatibility_date = "2025-11-09"
-workers_dev = true
+zizifn_dev = true
 preview_urls = true
 # logpush job is setup to capture from envs ending: log, pro, or one
 logpush = false
